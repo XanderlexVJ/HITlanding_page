@@ -1,0 +1,46 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://github.com/XanderlexVJ/HITlanding_page" resolutions="1x" timestamp="1491630654920">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="446130118" ref="index"/>
+    <file name="master_a-master.css" crc="204564329" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4152223963" ref="index"/>
+    <file name="webpro.js" crc="3770351119" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+    <file name="form_check.php" crc="3841221102" ref="index"/>
+    <file name="form_throttle.php" crc="4048049783" ref="index"/>
+    <file name="form_process.php" crc="3899230280" ref="index"/>
+    <file name="form-u863.php" crc="4134112811" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.jpg" crc="3775356080" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hitholonlogosvg.png" crc="422859568" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hunter-johnson-222001.jpg" crc="4141219298" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="harshama.png" crc="3970616784" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nordwood-themes-166423.jpg" crc="161605720" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3969267797" seo="true" mt="1491630409913" redirect="true"/>
+</manifest>
